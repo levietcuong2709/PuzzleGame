@@ -1,3 +1,3 @@
 # PuzzleGame
- Đây là sản phẩm chưa tối ưu và hoàn thiện.
- để chạy được tốt hãy check đường dẫn Music hợp với máy
+ Đây là sản phẩm chưa tối ưu và hoàn thiện
+ Để chạy được tốt hãy check đường dẫn ở phần main: String filepath = "D:\\Netbeans\\My Game\\PuzzleGame\\Music\\musicpokemon.wav" phù hợp với đường dẫn từ máy
